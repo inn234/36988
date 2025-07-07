@@ -44,4 +44,4 @@ SOD番号分类站
 
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/inn234/36988 ）</span>
